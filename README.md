@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**TarekAnwar7/TarekAnwar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TarekEl-Kady/TarekEl-Kady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
